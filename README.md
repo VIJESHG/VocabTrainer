@@ -1,2 +1,2 @@
 # VocabTrainer
-An Adaptive Vocabulary Test
+An Adaptive Vocabulary Test.

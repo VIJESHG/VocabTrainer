@@ -1,0 +1,9 @@
+{{extend 'layout.html'}}
+
+<form action=".">
+    <p>
+        Enter the synonym category.
+    </p>
+    
+    <input type="text" name="category"></br>
+</form>
